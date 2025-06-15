@@ -22,6 +22,12 @@ Welcome to the static homepage for **Kyara Beverages**, a brand reimagining refr
 
 ---
 
+## Live Preview
+
+View the project live on GitHub Pages: https://goutam363.github.io/kyara-beverages/
+
+---
+
 ## Tools & Technologies Used
 
 ### 🔹 HTML5
